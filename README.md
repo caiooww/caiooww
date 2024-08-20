@@ -3,7 +3,7 @@
         <!-- Ajuste da largura da célula -->
         <td style="width: 50%;">
             <!-- Ajuste da largura da imagem -->
-            <img src="3gi99293qh881 (1).jpg" style="width: 80%"; border: none;"/>
+            <img src="3gi99293qh881 (1).jpg" style="width: 80%"; border: none; horizontal-align: center"/>
         </td>
         <td style="width: 100%">
             <p style="font-family: Fira Code; font-size: 80px;">    
