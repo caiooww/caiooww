@@ -5,7 +5,7 @@
             <!-- Ajuste da largura da imagem -->
             <img src="SEKIRO.jpg" style="width:100%; border: none;"/>
         </td>
-        <td style="width: 30%">
+        <td style="width: 100%">
             <p style="font-family: Fira Code; font-size: 80px;">    
                 
         CaioW 
