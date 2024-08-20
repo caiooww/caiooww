@@ -6,13 +6,14 @@
 
 ###
 
-<p align="center">My Stats!!</p>
+<p align="center">My Stats</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiooww&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiooww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=caiooww&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiooww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=caiooww&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -37,7 +38,7 @@
 
 ###
 
-<h2 align="center">Social Media</h2>
+<p align="center">Social Media</p>
 
 ###
 
@@ -52,7 +53,7 @@
 
 ###
 
-<h2 align="center">Recently musics</h2>
+<p align="center">Recently musics</p>
 
 ###
 
@@ -64,7 +65,7 @@
 
 ###
 
-<h2 align="center">Visitor Count</h2>
+<p align="center">Visitor Count</p>
 
 ###
 
