@@ -1,13 +1,75 @@
-<div float="left">
- <img src="s.jpg" width="220" align="left">
-<div float="left">
+<h2 align="left">Hi 👋! My name is Caio, i'm a Computer Engineering student from Brazil</h2>
 
+###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiooww&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiooww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=caiooww&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiooww&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
+<img align="left" height="800" src="https://i.redd.it/3gi99293qh881.jpg"  />
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiooww&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiooww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="center">My Skills</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<h2 align="center">Social Media</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/caiow10/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:work.caiow@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="center">Recently musics</h2>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31ieh4j7mfta7pkkm4m6trzghvau">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ieh4j7mfta7pkkm4m6trzghvau&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<h2 align="center">Visitor Count</h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/caiooww/count.svg?"  />
 </div>
 
 ###
