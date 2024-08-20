@@ -1,3 +1,3 @@
-<p float="left">
+<div float="left">
  <img src="s.jpg" width="220" align="left">
-<p float="left">
+<div float="left">
