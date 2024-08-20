@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">My Stats!!</h2>
+<p align="center">My Stats!!</p>
 
 ###
 
