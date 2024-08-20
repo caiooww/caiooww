@@ -1,8 +1,10 @@
-<a href="#" id="profile-link">
-  <img src="3gi99293qh881 (1).jpg" alt="Imagem do perfil" width="200" />
-</a>
+<div id="profile-image-container">
+  <a href="#" id="profile-link">
+    <img src="3gi99293qh881 (1).jpg" alt="Imagem do perfil" width="200" />
+  </a>
+</div>
 
-<div id="profile-container">
+<div id="profile-text-container">
   ### Olá, eu sou [Seu Nome]!
 
   Desenvolvedor/a [Seu Cargo] com [Seu Tempo de Experiência] anos de experiência em [Tecnologias que você trabalha].
@@ -21,17 +23,19 @@
 </div>
 
 <style>
-  #profile-link {
+  #profile-image-container {
     float: left;
     margin: 0 20px 0 0;
-  }
-
-  #profile-container {
-    width: 200px; /* mesmo tamanho da imagem */
-    padding: 20px;
+    width: 200px; /* tamanho da imagem */
+    height: 200px; /* tamanho da imagem */
     background-color: #f7f7f7;
     border: 1px solid #ddd;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  #profile-text-container {
+    margin-left: 220px; /* espaço para a imagem */
+    padding: 20px;
   }
 </style>
