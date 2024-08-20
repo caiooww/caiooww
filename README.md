@@ -1,6 +1,3 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
-</style>
 
 <table>
     <tr>
@@ -10,7 +7,7 @@
             <img src="https://github.com/caiooww/caiooww/blob/main/sekiro.jpg" style="width:100%; border: none;"/>
         </td>
         <td style="width: 30%; vertical-align: middle;">
-            <p style="font-family: VT323; font-size: 80px;">    
+            <p style="font-family: Fira Code; font-size: 80px;">    
                 
         CaioW 
     
