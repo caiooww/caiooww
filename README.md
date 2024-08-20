@@ -1,41 +1,62 @@
-<div id="profile-image-container">
-  <a href="#" id="profile-link">
-    <img src="3gi99293qh881 (1).jpg" alt="Imagem do perfil" width="200" />
-  </a>
-</div>
 
-<div id="profile-text-container">
-  ### Olá, eu sou [Seu Nome]!
 
-  Desenvolvedor/a [Seu Cargo] com [Seu Tempo de Experiência] anos de experiência em [Tecnologias que você trabalha].
+<img src="s.jpg" height="200" width="150" align="left">
 
-  Aqui você encontrará meus projetos pessoais e contribuições para a comunidade open-source.
+## About me 
 
-  ### Projetos em Destaque
+- **She/her** - Brazilian - (pt/br + english)
+- **Software engineer, backend & Cyber Security**
+- **Learning**
+    - Python
+    - Python for data analysis
+    - Introduction to cybersecurity
+    - English
 
-  * [Projeto 1](https://github.com/seu-usuario/projeto-1)
-  * [Projeto 2](https://github.com/seu-usuario/projeto-2)
+## Contact 
 
-  ### Contato
+You can contact me through my social medias, or sending me an email.
 
-  * [Seu Email](mailto:seu-email@example.com)
-  * [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-</div>
+- **[LinkedIn](https://www.linkedin.com/in/amberploencio/)**
+- **[Email](amber.ploencio@gmail.com)**
 
-<style>
-  #profile-image-container {
-    float: left;
-    margin: 0 20px 0 0;
-    width: 200px; /* tamanho da imagem */
-    height: 200px; /* tamanho da imagem */
-    background-color: #f7f7f7;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
+##  Portfolio
 
-  #profile-text-container {
-    margin-left: 220px; /* espaço para a imagem */
-    padding: 20px;
-  }
-</style>
+I am currently working on my portfolio, but you can check some of my projects on my GitHub.
+
+- **[GitHub](https://github.com/amberploencio)**
+
+## Projects
+
+- **[Project 1](link to project)**
+- **[Project 2](link to project)**
+- **[Project 3](link to project)**
+
+## Skills
+
+- **Backend Development**
+    - Python
+    - Django
+    - Flask
+    - Node.js
+    - Express.js
+- **Cyber Security**
+    - Networking
+    - Ethical Hacking
+    - Penetration Testing
+    - Security Auditing
+
+##  
+
+This is still under construction, but I hope you can find some useful information here.
+
+Feel free to contact me if you have any questions. 
+
+<br> 
+
+This is just a template, you can customize it to your own needs. 
+
+Add your own projects, skills, and contact information. 
+
+You can also add a section for your blog or other social media profiles.
+
+I hope this helps!
