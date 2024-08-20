@@ -1,7 +1,7 @@
 <table>
     <tr>
         <!-- Ajuste da largura da célula -->
-        <td style="width: 30%;">
+        <td style="width: 10%;">
             <!-- Ajuste da largura da imagem -->
             <img src="3gi99293qh881 (1).jpg" style=""; border: none;"/>
         </td>
