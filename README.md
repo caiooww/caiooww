@@ -3,7 +3,7 @@
         <!-- Ajuste da largura da célula -->
         <td style="width: 100%;">
             <!-- Ajuste da largura da imagem -->
-            <img src="/sekiro.jpg" style="width:100%; border: none;"/>
+            <img src="SEKIRO.jpg" style="width:100%; border: none;"/>
         </td>
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: Fira Code; font-size: 80px;">    
