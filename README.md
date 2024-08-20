@@ -1,3 +1,22 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+</style>
+
+<table>
+    <tr>
+        <!-- Ajuste da largura da célula -->
+        <td style="width: 70%;">
+            <!-- Ajuste da largura da imagem -->
+            <img src="https://github.com/caiooww/caiooww/blob/main/sekiro.jpg" style="width:100%; border: none;"/>
+        </td>
+        <td style="width: 30%; vertical-align: middle;">
+            <p style="font-family: VT323; font-size: 80px;">    
+                
+        CaioW 
+    
+</p>  
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&pause=1000&color=A31FDF&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Caio;I'm+22+years+old;Learning+python%2C+java+and+some+frontend;Be+Welcome!!++)](https://git.io/typing-svg)
