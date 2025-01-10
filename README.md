@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caiooww&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiooww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=caiooww&theme=radical&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=caiooww&theme=radical&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
 ###
